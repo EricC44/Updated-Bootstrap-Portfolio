@@ -1,0 +1,59 @@
+.Thing-1 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    
+}
+  
+.Thing-2 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+    
+.Thing-3 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+.Thing-4 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+.Thing-5 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+.btn {
+    background-color: #4aaaa5;
+    color:#ffffff;
+}
+.carousel-caption {
+    background-color: #4aaaa5;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+.col-md-2 {
+    background-color: #4aaaa5;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+.navbar-brand {
+    background-color: #4aaaa5;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    height: 120%
+}
+.p {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    line-height: 2;
+    font: #777777;
+  
+}
+a {
+    color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2 {
+    font-size: 20px;
+    color: white;
+}
