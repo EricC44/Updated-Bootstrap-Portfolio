@@ -41,12 +41,15 @@
 .navbar-brand {
     background-color: #4aaaa5;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
-    height: 120%
+    height: 120%;
+    border-radius: 10px;
+    border-color: #777777
 }
 .p {
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
     line-height: 2;
     font: #777777;
+    font-size: 20px;
   
 }
 a {
@@ -56,4 +59,23 @@ a {
 h2 {
     font-size: 20px;
     color: white;
+}
+.link-color {
+    color: #4aaaa5;
+    font-family: 'Lato', sans-serif;
+    font-size: 28px;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
+.email {
+    font-size: 28px;
+    font-family: 'Lato', sans-serif;
+    color: #4aaaa5;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+    
+}
+.phone {
+    font-size: 28px;
+    font-family: 'Lato', sans-serif;
+    color: #4aaaa5;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
 }
